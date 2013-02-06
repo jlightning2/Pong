@@ -1,7 +1,7 @@
 
 public class Entity {
-  private int x, y;
-  private final int WIDTH, HEIGHT;
+  int x, y;
+  final int WIDTH, HEIGHT;
 
   public Entity(int x, int y, int w, int h) {
     this.x = x;
