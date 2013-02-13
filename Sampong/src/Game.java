@@ -91,6 +91,6 @@ public class Game {
 
 
   public static void main(String[] args) {
-    new Game(600, 400, 10).start();
+    new Game(600,600, 10).start();
   }
 }
